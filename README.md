@@ -9,7 +9,7 @@ I also enjoy playing games like **CS:GO, People Playground, VR-Chat, SCP:SL, Min
 <p align="center">
 	<img width="49%" src="https://github-widgetbox.vercel.app/api/skills?languages=lua,python,html,css&includeNames=true&theme=nautilus">
 	<img width="49%" src="https://github-widgetbox.vercel.app/api/skills?tools=git,npm,nodejs,vercel&includeNames=true&theme=nautilus">
-	<img src="https://github-widgetbox.vercel.app/api/profile?username=uwpy&data=followers,repositories,stars,commits&theme=nautilus">
+	<img src="https://github-widgetbox.vercel.app/api/profile?username=lxnp&data=followers,repositories,stars,commits&theme=nautilus">
 </p>
 
 <img align="left" width="50%" src="https://i.ibb.co/CKM2MMMr/boykisser.gif"><img align="center" width="50%" src="https://i.ibb.co/CKM2MMMr/boykisser.gif">
